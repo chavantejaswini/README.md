@@ -18,6 +18,6 @@ Database: MongoDB, MySQL, Oracle, PostgreSQL, SOQL, SOSL<br>
 https://medium.com/@tejaswinitchavan16/shopping-cart-abandonment-challenges-and-solutions-for-cvs-online-drugstore-ad31b72dbf57</p>
 
 **📫 How to reach me**
-<p><b>LinkedIn:</b>https://www.linkedin.com/in/tejaswini-chavan/<br>
-<b>University Email:</b>chavan.t@northeastern.edu<br>
-<b>Personal Email:</b>tejaswinitchavan16@gmail.com</p>
+<p><b>LinkedIn:</b> https://www.linkedin.com/in/tejaswini-chavan/<br>
+<b>University Email:</b> chavan.t@northeastern.edu<br>
+<b>Personal Email:</b> tejaswinitchavan16@gmail.com</p>
